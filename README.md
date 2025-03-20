@@ -1,7 +1,7 @@
-# package_name
+# criacao_de_pacotes_em_python
 
 Description. 
-The package package_name is used to:
+Criando exemplo:
 	- 
 	-
 
